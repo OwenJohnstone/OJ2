@@ -1,0 +1,69 @@
+*, *:before, *:after {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0 auto;
+  padding: 1;
+}
+
+html {
+  font-size: 70%;
+}
+
+#wrapper {
+  width: 100%;
+}
+
+img {
+max-width: 100% ;
+vertical-align: middle;
+}
+
+header, section, footer {
+  padding: 3rem;
+  font-size: 5rem;
+}
+nav {
+  background-color: red;
+  border-style: solid;
+  border-width: thick;
+}
+
+nav li {
+  display: inline;
+}
+
+nav a {
+  width: 20rem;
+  height: 1rem;
+  font-size: 3rem;
+  display: inline-block;
+  color: #000;
+  text-decoration: none
+}
+
+.welcome {
+margin-left: 550px;
+margin-top: -300px;
+}
+
+.Intro {
+  font-size: 20px;
+  margin-left: 550px;
+margin-top: 10px;
+}
+
+.Image1 {
+  margin-left: 125px;
+  margin-top: 50px;
+}
+
+.Intro2 {
+  font-size: 20px;
+  margin-left: 550px;
+}
+
+.Intro3 {
+  font-size: 20px;
+  margin-left: 550px;
+}
